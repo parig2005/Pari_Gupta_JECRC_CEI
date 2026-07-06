@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Vector store (regenerated locally, don't commit)
+chroma_db/
+demo_chroma_db/
+*.sqlite3
+*.bin
+
+# Data (keep folder, ignore large raw files if desired)
+data/raw/*
+!data/raw/.gitkeep
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
