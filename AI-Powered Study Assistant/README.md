@@ -1,4 +1,4 @@
-# 📄 Chat with PDF
+# 📄 AI-Powered Study Assistant
 
 An AI-powered chatbot that lets you upload a PDF and ask questions about it using Retrieval-Augmented Generation (RAG).
 
